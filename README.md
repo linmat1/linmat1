@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Matthew. I study Computer Science at the University of Chicago '29.
+Matthew Lin | Computer Science at the University of Chicago '29.
+Berkshire, England
 email: linmat@uchicago.edu
 
 
