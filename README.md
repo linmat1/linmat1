@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Matthew Lin | Computer Science at the University of Chicago '29.
-Berkshire, England
+Matthew Lin | Computer Science at the University of Chicago '29.  
+Berkshire, England.  
 email: linmat@uchicago.edu
 
 
