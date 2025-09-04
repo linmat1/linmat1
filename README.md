@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Matthew. I study Computer Science at the University of Chicago '29.
+email: linmat@uchicago.edu
+
+
 <!--
 **linmat1/linmat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
